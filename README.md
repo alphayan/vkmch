@@ -5,4 +5,5 @@
    3.安装git工具  官网链接https://git-scm.com/ （Git是一款免费、开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。 Git的读音为/gɪt/。）<br>
    4.使用git生成ssh 教程链接 http://blog.csdn.net/hustpzb/article/details/8230454/ 只看前两步<br>
    5.熟悉git命令 教程链接 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/ <br>
-   6.将生成好的ssh公钥发给我，获取私人仓库代码的地址<br>
+   6.将生成好的ssh公钥发给我，获取私人仓库代码的地址<br>
+
